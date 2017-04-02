@@ -26,3 +26,5 @@ Program the Teensy with the Arduino IDE, selecting:
 Plug the teesny into USB on flight simulator computer.
 It should appear as SerialKeyboardMouseJoystick or similar
 Follow instructions for adding any trim wheel such as Saitek - e.g. Youtube video here https://www.youtube.com/watch?v=amHL0R29KL0
+
+More details at http://robdobson.com/2017/04/flight-trim/
